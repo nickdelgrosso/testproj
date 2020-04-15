@@ -6,7 +6,7 @@ This is a test project.
 
 ### Python
 ```python
-hello world
+print('hello world')
 ```
 
 ### Java
